@@ -62,3 +62,9 @@ Here are some ideas to get you started:
 
 ### :fire: Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Stormed&theme=windows-dark&hide_border=true&fire=FF0000&background=000000&stroke=FFFFFF&ring=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&dates=FF0000&sideLabels=FF0000)](https://git.io/streak-stats)
+
+---
+
+### :fire: Weekly Stats :
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
