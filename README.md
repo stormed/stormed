@@ -70,13 +70,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 February 2023 - To: 22 February 2023
+From: 14 February 2023 - To: 23 February 2023
 
-Total Time: 24 hrs 39 mins
+Total Time: 27 hrs 20 mins
 
-Python       11 hrs          >>>>>>>>>>>--------------   44.60 %
-JavaScript   7 hrs 6 mins    >>>>>>>------------------   28.84 %
-Other        1 hr 58 mins    >>-----------------------   08.03 %
+Python       15 hrs 17 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.73 %
+JavaScript   7 hrs 9 mins    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.21 %
+Other        2 hrs 12 mins   ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.49 %
 ```
 
 <!--END_SECTION:waka-->
