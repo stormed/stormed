@@ -58,10 +58,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
 </div>
 
----
-
-### :fire: Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stormed&theme=windows-dark&hide_border=true&fire=FF0000&background=000000&stroke=FFFFFF&ring=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&dates=FF0000&sideLabels=FF0000)](https://git.io/streak-stats)
 
 ---
 
