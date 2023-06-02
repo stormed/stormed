@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 14 February 2023 - To: 01 June 2023
 
 Total Time: 158 hrs
